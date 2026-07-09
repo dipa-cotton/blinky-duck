@@ -8,9 +8,9 @@ I learned about various different components, like a potentiometer, from this pr
 
 ## Pictures of my beautiful ducky
 3D Render:
-<img width="952" height="806" alt="Screenshot 2026-04-12 124235" src="https://github.com/user-attachments/assets/c1324a8d-b2d2-4952-8031-200f8ecf27da" />
+<img width="659" height="626" alt="Screenshot 2026-07-09 at 10 30 52 AM" src="https://github.com/user-attachments/assets/bc4b3498-2659-41be-98e7-8d429c59ae10" />
 Routed PCB:
-<img width="662" height="647" alt="Screenshot 2026-04-12 124132" src="https://github.com/user-attachments/assets/7011a944-7a99-4581-b012-7ada167a934f" />
+<img width="659" height="617" alt="Screenshot 2026-07-09 at 10 30 10 AM" src="https://github.com/user-attachments/assets/68f00c1c-3bda-4200-b3b7-e24cf7511748" />
 Schematic:
 <img width="1035" height="677" alt="Screenshot 2026-04-12 124143" src="https://github.com/user-attachments/assets/f221a324-5afe-49f4-bc16-e790d103fa48" />
 
