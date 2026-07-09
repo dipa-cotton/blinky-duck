@@ -1,0 +1,8 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"BT1","1","Battery","","","","Connector_Wire:SolderWire-2.5sqmm_1x02_P7.2mm_D2.4mm_OD3.6mm",""
+"C1","1","C_Polarized","","","","Capacitor_THT:CP_Radial_D5.0mm_P2.50mm",""
+"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13","13","LED","","","","LED_THT:LED_D5.0mm",""
+"R1","1","R_Variable","","","","Potentiometer_THT:Potentiometer_Bourns_3386P_Vertical",""
+"R2,R3","2","R","","","","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",""
+"SW1","1","SW_Push","","","","Button_Switch_THT:SW_PUSH_6mm",""
+"U1","1","ICM7555xB","","","","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","http://www.intersil.com/content/dam/Intersil/documents/icm7/icm7555-56.pdf"
